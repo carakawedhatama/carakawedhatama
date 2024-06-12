@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Wedha 👋
 
 Welcome to my GitHub profile! I'm a passionate Software Engineer with over 8 years of experience in backend development, specializing in C#, Go, and MariaDB. Here's a bit about me:
 
