@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer with over 8 yea
 - 🔭 I’m currently working on delivering high quality product, people, and process in ERP Engineering team.
 - 🌱 I’m currently learning CDC (Change Data Capture) and AI integration within daily base's tools.
 - 👯 I’m looking to collaborate on [Plane](https://github.com/makeplane/plane).
-- 🤔 I’m looking for help with data collection in [kangen jogja](https://github.com/carakawedhatama/kangen_jogja)'s project.
+- 🤔 I’m looking for help with data collection in [kangen jogja](https://github.com/carakawedhatama/kangen_jogja)'s project through [haven](https://github.com/carakawedhatama/haven)'s project.
 - 💬 Ask me about C#, Go, MariaDB, Redis, and large-scale backend services.
 - 📫 How to reach me: [email](carakawedhatama@gmail.com) or [LinkedIn](https://linkedin.com/in/carakawedhatama).
 - ⚡ Fun fact: love One Piece a lot, but in manga version.
