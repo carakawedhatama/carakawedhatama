@@ -23,6 +23,11 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer with over 8 yea
 - Developed large-scale backend services using C#, Go, MariaDB, and Redis.
 - Created a lite version of an ERP application with 5 modules using Go, MariaDB, Redis, Kong, Terraform, and Kafka.
 
+### Private Gitlab's Overview
+Due to most of my work is company related project within our Gitlab private repository, here is the overview of my Gitlab's profile
+
+![Gitlab's overview](/assets/gitlab.png)
+
 ## 🌟 Key Projects
 ### ERP RUN System
 - Develop and maintain ERP application desktop based (front end) that consist of 12 modules.
